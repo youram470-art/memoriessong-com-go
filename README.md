@@ -1,17 +1,17 @@
 # memoriessong-com-go
 
-Go metadata and integration helper module for [memoriessong.com](https://memoriessong.com).
+Go metadata and integration helper module for [wan27.org](https://wan27.org).
 
-This module gives Go scripts, content automation jobs, indexing utilities, and future SDK code a stable import path for Memories Song. It exposes the canonical website URL, documentation URL, source repository, local repository path, MDX content path, and Next.js app path used by the project.
+This module gives Go scripts, content automation jobs, indexing utilities, and future SDK code a stable import path for Wan27. It exposes the canonical website URL, documentation URL, source repository, local repository path, MDX content path, and Next.js app path used by the project.
 
 ## Website focus
 
-Memories Song focuses on AI keepsake music, memory-song creation, and emotional tribute song workflows. This first release intentionally publishes a lightweight metadata layer that can grow into a fuller API client later.
+Wan27 focuses on AI video generation, prompt-to-video workflows, and Wan27 site metadata. This first release intentionally publishes a lightweight metadata layer that can grow into a fuller API client later.
 
 ## Installation
 
 ```bash
-go get github.com/youram470-art/memoriessong-com-go@v0.1.0
+go get github.com/youram470-art/memoriessong-com-go@v0.1.1
 ```
 
 ## Quick start
@@ -34,8 +34,8 @@ func main() {
 
 ## Links
 
-- Website: https://memoriessong.com
-- Documentation: https://memoriessong.com/docs
+- Website: https://wan27.org
+- Documentation: https://wan27.org/docs
 - Source: https://github.com/youram470-art/memoriessong-com-go
 - pkg.go.dev: https://pkg.go.dev/github.com/youram470-art/memoriessong-com-go
 
